@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Platinum — GTA 6 Trophy Guide &amp; Tracker</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23ff5c8a'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="css/base.css">
+<script type="module" src="js/main.js"></script>
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-inner">
+    <div>
+      <h1>Leonida Platinum</h1>
+      <p class="tagline">The GTA 6 trophy guide &amp; tracker — all 55 official PlayStation 5 trophies, offline.</p>
+    </div>
+    <div class="progress" aria-label="Progress">
+      <span id="progressText">0 of 55 earned</span>
+      <div class="bar"><div id="progressBar" style="width: 0%"></div></div>
+      <span id="pointsText" class="points">0 / 1,230 PSN points</span>
+    </div>
+  </div>
+  <nav class="tabs" aria-label="Pages">
+    <a href="#/tracker" data-route="tracker">Tracker</a>
+    <a href="#/roadmap" data-route="roadmap">Roadmap</a>
+    <a href="#/missables" data-route="missables">Missables <span class="count">7</span></a>
+  </nav>
+</header>
+
+<div id="toolbar" class="toolbar">
+  <input id="search" type="search" placeholder="Search name, description or guide…" aria-label="Search trophies">
+  <div class="chips" role="group" aria-label="Filter by kind">
+    <button class="chip" data-kind="all" type="button">All</button>
+    <button class="chip" data-kind="story" type="button">Story</button>
+    <button class="chip" data-kind="missable" type="button">Missable</button>
+    <button class="chip" data-kind="collectibles" type="button">Collectibles</button>
+    <button class="chip" data-kind="activities" type="button">Activities</button>
+  </div>
+  <select id="gradeFilter" aria-label="Filter by grade">
+    <option value="all">All grades</option>
+    <option value="platinum">Platinum</option>
+    <option value="gold">Gold</option>
+    <option value="silver">Silver</option>
+    <option value="bronze">Bronze</option>
+  </select>
+  <label class="toggle"><input id="hideEarned" type="checkbox"> Hide earned</label>
+  <label class="toggle"><input id="spoilerToggle" type="checkbox"> Spoiler-free</label>
+  <button id="exportBtn" type="button">Export</button>
+  <button id="importBtn" type="button">Import</button>
+  <input id="importFile" type="file" accept="application/json,.json" hidden>
+</div>
+
+<main id="view">
+  <section id="nextup" aria-label="Next up"></section>
+  <div class="columns">
+    <ul id="trophy-list" aria-label="Trophy checklist"></ul>
+    <aside id="detail" aria-label="Trophy guide"></aside>
+  </div>
+</main>
+
+<footer class="sources">
+  <p><strong>Sources:</strong> the official trophy list on
+    <a href="https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/" target="_blank" rel="noopener">Exophase</a>
+    (names, descriptions, grades) and
+    <a href="https://psnprofiles.com/trophies/43531-grand-theft-auto-vi" target="_blank" rel="noopener">PSNProfiles</a>
+    (PSN's tracked counts). Every guide is our own words from the official descriptions — a place or step the sources
+    do not pin down is marked as not pinned down. The game released 19 Nov 2026; missable flags are our reading of the
+    descriptions and their triggers are unconfirmed.</p>
+  <p>Leonida Platinum works offline: it loads nothing from the network and saves your progress in this browser only.
+    55 trophies · 1 platinum, 2 gold, 6 silver, 46 bronze · 1,230 PSN points.</p>
+</footer>
+</body>
+</html>

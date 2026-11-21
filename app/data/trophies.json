@@ -1,0 +1,862 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "list": "the official 55 trophies, checked 21 Nov 2026",
+ "sources": [
+  {
+   "name": "Exophase",
+   "what": "official trophy list — names, descriptions, grades",
+   "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+   "checked": "2026-11-18"
+  },
+  {
+   "name": "PSNProfiles",
+   "what": "tracked counts for grind trophies",
+   "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi",
+   "checked": "2026-11-19"
+  }
+ ],
+ "points_note": "PSN points per grade: bronze 15, silver 30, gold 90, platinum 180. Total for all 55 trophies: 1,230 points.",
+ "trophies": [
+  {
+   "id": 1,
+   "name": "Vice Got a Price!",
+   "description": "Congratulations! You're a Leonida Legend.",
+   "grade": "platinum",
+   "points": 180,
+   "guide": "The platinum pops on its own once the other 54 are earned. Follow the roadmap in order — story first, then the counted grinds, then the missable watch list — and leave the clean-up trophies for last.",
+   "fact": "Earn all 54 others first",
+   "kind": "activities",
+   "stage": 6,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 2,
+   "name": "Just Like Paradise",
+   "description": "Complete Gone Fishing.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Play the opening mission, Gone Fishing, to the end. It is the first mission in the game, so this is usually the first trophy a player earns.",
+   "fact": "Opening mission: Gone Fishing",
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 3,
+   "name": "Paradise Lost",
+   "description": "Complete Chapter 1.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Play through Chapter 1 to its end. Main missions only — keep following the story and it pops when the chapter closes.",
+   "fact": "Chapter 1",
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 4,
+   "name": "T**s Ass Drug Money",
+   "description": "Complete Chapter 2.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Play through Chapter 2 to its end. Main missions only — keep following the story and it pops when the chapter closes.",
+   "fact": "Chapter 2",
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Vice City, Baby!",
+   "description": "Complete Chapter 3.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Play through Chapter 3 to its end. Main missions only — keep following the story and it pops when the chapter closes.",
+   "fact": "Chapter 3",
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Top Of The World, Ma",
+   "description": "Complete Chapter 4.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Play through Chapter 4 to its end. Main missions only — keep following the story and it pops when the chapter closes.",
+   "fact": "Chapter 4",
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 7,
+   "name": "You Gotta Know When to Get Off",
+   "description": "Complete the final mission.",
+   "grade": "gold",
+   "points": 90,
+   "guide": "Play the final mission to the end. It is the last mission of the story — before you start it, clear the missable watch list, since the story may not let you go back afterwards.",
+   "fact": "Final mission · gold",
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 8,
+   "name": "Trust",
+   "description": "Complete Breakfast Run.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Play the mission Breakfast Run to the end. Main missions only — it pops when the mission closes.",
+   "fact": "Mission: Breakfast Run",
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 9,
+   "name": "Break the Bank",
+   "description": "Complete The Cartel Heist.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Play the mission The Cartel Heist to the end. Main missions only — it pops when the mission closes.",
+   "fact": "Mission: The Cartel Heist",
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 10,
+   "name": "Family Matters",
+   "description": "Complete Child's Play.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Play the mission Child's Play to the end. Main missions only — it pops when the mission closes.",
+   "fact": "Mission: Child's Play",
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 11,
+   "name": "DWNFALL",
+   "description": "Complete Headliners.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Play the mission Headliners to the end. Main missions only — it pops when the mission closes.",
+   "fact": "Mission: Headliners",
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Hi-Jacked",
+   "description": "Complete VCIA Takedown.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Play the mission VCIA Takedown to the end. Main missions only — it pops when the mission closes.",
+   "fact": "Mission: VCIA Takedown",
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 13,
+   "name": "Snow Storm",
+   "description": "Complete Operation Savage Glory.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Play the mission Operation Savage Glory to the end. Main missions only — it pops when the mission closes.",
+   "fact": "Mission: Operation Savage Glory",
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 14,
+   "name": "A Long Road",
+   "description": "Attain 100% Completion.",
+   "grade": "gold",
+   "points": 90,
+   "guide": "Reach 100% completion. This is the long one: every mission, activity, collectible and strand counts toward it, so treat it as the last trophy before the platinum and watch the in-game completion counter as you go.",
+   "fact": "100% completion · gold",
+   "kind": "story",
+   "stage": 2,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 15,
+   "name": "Cunning Stunts",
+   "description": "Complete 250 Stunts.",
+   "grade": "silver",
+   "points": 30,
+   "guide": "Pull off 250 stunts. PSNProfiles tracks the count to 250. Stunts add up across the whole game — jumps, near-misses and air time all count — so play aggressively and check your counter in the stats menu.",
+   "fact": "250 stunts",
+   "kind": "activities",
+   "stage": 3,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026",
+    "PSNProfiles · tracked count · 19 Nov 2026"
+   ]
+  },
+  {
+   "id": 16,
+   "name": "Master of None",
+   "description": "Try each type of activity once.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Try each of the 9 activity types once. PSNProfiles tracks 9 types. Play one round of every activity the game offers and it pops; you do not need to win any of them.",
+   "fact": "9 activity types",
+   "kind": "activities",
+   "stage": 2,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026",
+    "PSNProfiles · tracked count · 19 Nov 2026"
+   ]
+  },
+  {
+   "id": 17,
+   "name": "The Shootist",
+   "description": "Earn a gold medal in all Shooting Range challenges.",
+   "grade": "silver",
+   "points": 30,
+   "guide": "Earn a gold medal in all 42 Shooting Range challenges. PSNProfiles tracks 42 challenges. Gold every challenge at the range; bring the best weapon you have for each one and retry the ones you miss.",
+   "fact": "42 Shooting Range challenges, all gold",
+   "kind": "activities",
+   "stage": 3,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026",
+    "PSNProfiles · tracked count · 19 Nov 2026"
+   ]
+  },
+  {
+   "id": 18,
+   "name": "Top Fun",
+   "description": "Win a Top Fun Drone Race at every location.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Win a Top Fun Drone Race at every location — 14 in total. PSNProfiles tracks 14 locations. Learn each course once, then win it; a win at every location is what counts.",
+   "fact": "14 drone race locations",
+   "kind": "activities",
+   "stage": 3,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026",
+    "PSNProfiles · tracked count · 19 Nov 2026"
+   ]
+  },
+  {
+   "id": 19,
+   "name": "Earn Cash, Not Kudos",
+   "description": "Win 20 different races.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Win 20 different races. Any 20 distinct races count — road, off-road or water — so spread your wins across race types instead of repeating the same one.",
+   "fact": "20 different races",
+   "kind": "activities",
+   "stage": 3,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 20,
+   "name": "Baited My Tackle",
+   "description": "Beat Cal in a fishing challenge.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Beat Cal in a fishing challenge. Find Cal's fishing challenge and out-fish him; no special gear is named by the sources, so use the best rod you have.",
+   "fact": "Beat Cal",
+   "kind": "activities",
+   "stage": 4,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 21,
+   "name": "Stick Fiddler",
+   "description": "Complete an arcade game.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Complete one arcade game. Walk into any arcade and finish a game to the end — the first full playthrough is enough.",
+   "fact": "1 arcade game",
+   "kind": "activities",
+   "stage": 4,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 22,
+   "name": "Road to Rehabilitation",
+   "description": "Complete the final mission for Andy.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Complete the final mission for Andy. Play Andy's strand to its last mission.",
+   "fact": "Andy's last mission",
+   "kind": "activities",
+   "stage": 4,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 23,
+   "name": "This Was No Boat Accident",
+   "description": "Complete the final mission for Kenton.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Complete the final mission for Kenton. Play Kenton's strand to its last mission.",
+   "fact": "Kenton's last mission",
+   "kind": "activities",
+   "stage": 4,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 24,
+   "name": "The Lone Rider",
+   "description": "Complete the final mission for Billy.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Complete the final mission for Billy. Play Billy's strand to its last mission.",
+   "fact": "Billy's last mission",
+   "kind": "activities",
+   "stage": 4,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 25,
+   "name": "Strangers & Freaks",
+   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+   "grade": "silver",
+   "points": 30,
+   "guide": "Complete 8 mission strands for strangers across Leonida. PSNProfiles tracks 8 strands. Pick up every stranger mission you meet and finish each strand; the map markers are your checklist.",
+   "fact": "8 stranger strands",
+   "kind": "activities",
+   "stage": 2,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026",
+    "PSNProfiles · tracked count · 19 Nov 2026"
+   ]
+  },
+  {
+   "id": 26,
+   "name": "Supply & Demand",
+   "description": "Complete the final mission for Randy.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Complete the final mission for Randy. Play Randy's strand to its last mission.",
+   "fact": "Randy's last mission",
+   "kind": "activities",
+   "stage": 4,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 27,
+   "name": "Spin On This!",
+   "description": "Complete the final mission for Tyrone.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Complete the final mission for Tyrone. Play Tyrone's strand to its last mission.",
+   "fact": "Tyrone's last mission",
+   "kind": "activities",
+   "stage": 4,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 28,
+   "name": "Positive Mental Attitude",
+   "description": "Meditate at every spot across Leonida.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Meditate at all 18 spots across Leonida. PSNProfiles tracks 18 spots. Visit every meditation spot and complete the session at each one.",
+   "fact": "18 meditation spots",
+   "kind": "activities",
+   "stage": 3,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026",
+    "PSNProfiles · tracked count · 19 Nov 2026"
+   ]
+  },
+  {
+   "id": 29,
+   "name": "Fair Game",
+   "description": "Hunt a unique animal for Bret.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Hunt a unique animal for Bret. Follow Bret's strand — the target animal is unique, so the hunt only counts once you take that specific animal.",
+   "fact": "1 unique animal",
+   "kind": "activities",
+   "stage": 4,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 30,
+   "name": "Don't Touch My Deck",
+   "description": "Complete 3 Collectible Card sets.",
+   "grade": "silver",
+   "points": 30,
+   "guide": "Complete 3 Collectible Card sets. Cards are scattered across Leonida; finish any 3 full sets. Keep a checklist of the sets you have started so you do not chase the same set twice.",
+   "fact": "3 card sets",
+   "kind": "collectibles",
+   "stage": 6,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 31,
+   "name": "You WAiNKer!",
+   "description": "WAiNK It at 100 locations.",
+   "grade": "silver",
+   "points": 30,
+   "guide": "WAiNK It at 100 locations. PSNProfiles tracks 100 locations. The counter is the long grind — tag every spot you pass and check the total in the stats menu.",
+   "fact": "100 WAiNK It locations",
+   "kind": "collectibles",
+   "stage": 3,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026",
+    "PSNProfiles · tracked count · 19 Nov 2026"
+   ]
+  },
+  {
+   "id": 32,
+   "name": "One Last Thing",
+   "description": "Complete 50 Challenges.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Complete 50 Challenges. PSNProfiles tracks 50. Challenges span the whole game, so this pops naturally if you play broadly; check which ones you have left in the challenges menu.",
+   "fact": "50 challenges",
+   "kind": "activities",
+   "stage": 3,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026",
+    "PSNProfiles · tracked count · 19 Nov 2026"
+   ]
+  },
+  {
+   "id": 33,
+   "name": "Hot Together",
+   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Lose a 4-star Wanted Level with your partner and escape the heat. Get to 4 stars with your partner beside you, then break line of sight and stay out of the search area until the wanted level clears.",
+   "fact": "4-star wanted, with partner",
+   "kind": "activities",
+   "stage": 4,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 34,
+   "name": "Retail Therapy",
+   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level. Chain three shop robberies in a row with your partner, keeping the same wanted level through all three — do not get busted or lose the cops between shops.",
+   "fact": "3 shops in a row, with partner",
+   "kind": "activities",
+   "stage": 4,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 35,
+   "name": "Whip It Good",
+   "description": "Discover 100 vehicles.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Discover 100 vehicles. PSNProfiles tracks 100. Drive or enter every new vehicle type you see; the counter moves on first discovery, so variety beats repetition.",
+   "fact": "100 vehicles",
+   "kind": "collectibles",
+   "stage": 3,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026",
+    "PSNProfiles · tracked count · 19 Nov 2026"
+   ]
+  },
+  {
+   "id": 36,
+   "name": "Gunslinger",
+   "description": "Take down 5 enemies in a single use of Combat Focus.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Take down 5 enemies in a single use of Combat Focus. Wait for a group of at least 5 in a shooting fight, trigger Combat Focus, and drop all five before it ends — pick a crowded fight, not a lone enemy.",
+   "fact": "5 enemies, one Combat Focus",
+   "kind": "activities",
+   "stage": 6,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 37,
+   "name": "Catch Me If You Can",
+   "description": "Make an unscheduled departure at VCIA.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Make an unscheduled departure at VCIA. Our reading: this looks missable from the description wording — it sounds like a one-off moment at the airport — but the trigger is unconfirmed; the game released 19 Nov 2026, so treat this as a watch item and do it the first time you are at VCIA rather than assuming you can come back.",
+   "fact": "VCIA · watch: missable",
+   "kind": "activities",
+   "stage": 5,
+   "missable": true,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 38,
+   "name": "Challenging Tank",
+   "description": "Kinda hot in these Rhinos.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Kinda hot in these Rhinos. Deal with the Rhino tanks — the description does not name a count, so engage them when they appear in missions or free roam and the trophy will pop once the requirement is met.",
+   "fact": "Rhino tanks",
+   "kind": "activities",
+   "stage": 6,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 39,
+   "name": "Sneakthief",
+   "description": "Rob a jewelry store without being detected.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Rob a jewelry store without being detected. Plan the approach, stay out of sight lines, and leave before any alarm — a single detection fails the attempt, so retry clean.",
+   "fact": "Undetected jewelry robbery",
+   "kind": "activities",
+   "stage": 6,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 40,
+   "name": "Maximum Withdrawal",
+   "description": "Rob 5 Bank Vaults and escape.",
+   "grade": "silver",
+   "points": 30,
+   "guide": "Rob 5 Bank Vaults and escape. Five vaults, each followed by a clean escape. Plan the getaway before you go in — the escape is part of the requirement.",
+   "fact": "5 bank vaults",
+   "kind": "activities",
+   "stage": 3,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 41,
+   "name": "A Classic Blitz Play",
+   "description": "Rob an Armored Truck and escape.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Rob an Armored Truck and escape. Hit one armored truck and get away clean; the escape counts, so do not stop for a second score on the same run.",
+   "fact": "1 armored truck",
+   "kind": "activities",
+   "stage": 6,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 42,
+   "name": "The Goodtime State",
+   "description": "Explore all of Leonida.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Explore all 52 areas of Leonida. PSNProfiles tracks 52 areas. Drive through every named area until the map is filled in; the counter moves per area, so check which areas are still unvisited.",
+   "fact": "52 areas",
+   "kind": "collectibles",
+   "stage": 2,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026",
+    "PSNProfiles · tracked count · 19 Nov 2026"
+   ]
+  },
+  {
+   "id": 43,
+   "name": "Pest Control",
+   "description": "Rob an Illegal Operation belonging to each gang.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Rob an Illegal Operation belonging to each of the 9 gangs. PSNProfiles tracks 9 gangs. Hit one operation per gang — nine gangs, nine hits.",
+   "fact": "9 gangs",
+   "kind": "activities",
+   "stage": 4,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026",
+    "PSNProfiles · tracked count · 19 Nov 2026"
+   ]
+  },
+  {
+   "id": 44,
+   "name": "In The Beginning…",
+   "description": "Enjoy a cocktail with a view on Ocean Beach.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Enjoy a cocktail with a view on Ocean Beach. Our reading: this looks missable from the description wording — it sounds like a one-off moment at a specific place — but the trigger is unconfirmed; the game released 19 Nov 2026, so do it the first time the opportunity appears rather than assuming it waits.",
+   "fact": "Ocean Beach · watch: missable",
+   "kind": "activities",
+   "stage": 5,
+   "missable": true,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 45,
+   "name": "Capital Offense",
+   "description": "Smash your way out of a vehicle showroom in classic style.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Smash your way out of a vehicle showroom in classic style. Our reading: this looks missable — it sounds like a single scripted-style moment in a showroom — but the trigger is unconfirmed; the game released 19 Nov 2026, so attempt it the first time you are in a showroom rather than later.",
+   "fact": "Vehicle showroom · watch: missable",
+   "kind": "activities",
+   "stage": 5,
+   "missable": true,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 46,
+   "name": "Let’s Go Bowling",
+   "description": "Follow-through at the Kolt & Associates' bowling alley.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Follow-through at the Kolt & Associates' bowling alley. Play a full game at that alley; the trophy is about completing the visit, not your score.",
+   "fact": "Kolt & Associates bowling alley",
+   "kind": "activities",
+   "stage": 6,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 47,
+   "name": "Personal Best",
+   "description": "A partnership with mass appeal.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "A partnership with mass appeal. Our reading: this looks missable from the description wording — it sounds like a one-off partnership moment — but the trigger is unconfirmed; the game released 19 Nov 2026, so watch for the moment and do not assume it repeats.",
+   "fact": "Watch: missable",
+   "kind": "activities",
+   "stage": 5,
+   "missable": true,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 48,
+   "name": "Actions Speak Louder",
+   "description": "Choices made (for better or worse).",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Choices made (for better or worse). PSNProfiles tracks a count to 500. Our reading: this looks missable — the description points at choices that may not be repeatable — but the trigger is unconfirmed; the game released 19 Nov 2026, so make the choices as they come and do not rely on a second playthrough for the count.",
+   "fact": "500 choices · watch: missable",
+   "kind": "activities",
+   "stage": 5,
+   "missable": true,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026",
+    "PSNProfiles · tracked count · 19 Nov 2026"
+   ]
+  },
+  {
+   "id": 49,
+   "name": "Bad Luck, I Guess",
+   "description": "Second time's the charm.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Second time's the charm. Our reading: this looks missable — it sounds like succeeding on a second try at something specific — but the trigger is unconfirmed; the game released 19 Nov 2026, so when you fail something once, try it again right away instead of moving on.",
+   "fact": "Second try · watch: missable",
+   "kind": "activities",
+   "stage": 5,
+   "missable": true,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 50,
+   "name": "The Truth Is Out There",
+   "description": "What the hell just happened?",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "What the hell just happened? Our reading: this looks missable — it sounds like witnessing a one-off strange event — but the trigger is unconfirmed; the game released 19 Nov 2026, so when something strange happens, stay and watch it through rather than driving past.",
+   "fact": "Strange event · watch: missable",
+   "kind": "activities",
+   "stage": 5,
+   "missable": true,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 51,
+   "name": "Ten Pin",
+   "description": "Bowl 'em over with a melee drive-by.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Bowl 'em over with a melee drive-by. Hit someone with a melee attack from a moving vehicle — a drive-by, but with a melee weapon instead of a gun.",
+   "fact": "Melee drive-by",
+   "kind": "activities",
+   "stage": 6,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  },
+  {
+   "id": 52,
+   "name": "Dime on the Dollar",
+   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Earn $250,000 laundering Marked Bills through your contacts. PSNProfiles tracks $250,000. Launder marked bills through your contacts until the total hits $250,000; it is a cumulative total, so keep at it between missions.",
+   "fact": "$250,000 laundered",
+   "kind": "activities",
+   "stage": 3,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026",
+    "PSNProfiles · tracked count · 19 Nov 2026"
+   ]
+  },
+  {
+   "id": 53,
+   "name": "Treat Yo Self",
+   "description": "Spend $100,000 across all shops.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Spend $100,000 across all shops. PSNProfiles tracks $100,000. Spend across any shops — weapons, clothes, cars — the total is cumulative, so it pops as you play.",
+   "fact": "$100,000 spent",
+   "kind": "activities",
+   "stage": 3,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026",
+    "PSNProfiles · tracked count · 19 Nov 2026"
+   ]
+  },
+  {
+   "id": 54,
+   "name": "Little Boxes",
+   "description": "Purchase all garage properties.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Purchase all 8 garage properties. PSNProfiles tracks 8 garages. Buy every garage property on the map; save up and check the property list for the ones you still lack.",
+   "fact": "8 garages",
+   "kind": "collectibles",
+   "stage": 6,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026",
+    "PSNProfiles · tracked count · 19 Nov 2026"
+   ]
+  },
+  {
+   "id": 55,
+   "name": "On the Spot",
+   "description": "Register 10 vehicles to the Scooter Bros app.",
+   "grade": "bronze",
+   "points": 15,
+   "guide": "Register 10 vehicles to the Scooter Bros app. Register any 10 vehicles in the app — first registration of each vehicle counts.",
+   "fact": "10 vehicles registered",
+   "kind": "collectibles",
+   "stage": 6,
+   "missable": false,
+   "sources": [
+    "Exophase · official list · 18 Nov 2026"
+   ]
+  }
+ ]
+}
